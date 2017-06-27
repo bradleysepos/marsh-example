@@ -4,7 +4,7 @@
     <link rel="self" href="https://bradleysepos.github.io/marsh-example/news/feed.xml" type="application/atom+xml" />
     <link rel="alternate" href="https://bradleysepos.github.io/marsh-example/news/" type="text/html" />
     <icon>https://bradleysepos.github.io/marsh-example/news/icon.png</icon>
-    <updated>2017-06-27T10:24:21+00:00</updated>
+    <updated>2017-06-27T10:29:37+00:00</updated>
     <title>Marsh Example News</title>
         <entry>
         <id>https://bradleysepos.github.io/marsh-example/news/2017/06/27/01-marsh-example-news-extravaganza.html</id>
@@ -14,7 +14,7 @@
         <rights>Copyright 2017 Bradley Sepos</rights>
         <title>Marsh Example News Extravaganza!</title>
         <author>
-            <name>Bradley&nbsp;Sepos</name>
+            <name>Bradley Sepos</name>
         </author>
         <summary>It’s a third news item!</summary>
         <content type="html">
